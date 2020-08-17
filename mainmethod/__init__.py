@@ -1,1 +1,1 @@
-from mainmethod import mainmethod
+from .mainmethod import mainmethod
